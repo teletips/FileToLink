@@ -33,6 +33,10 @@ def file_sent(message):
                 except AttributeError:
                     pass
 
+if bool(os.environ.get("ENV", False)):
+    from sampleconfig import Config
+else:
+    from config import Config                
 
 if __name__ == "__main__":
     plugins = dict(root="plugins")
