@@ -9,7 +9,7 @@ Is it a nuisance to send huge files to others.File To Link Bot is for you.This b
 ### ⚜️ HOW TO USE THIS BOT
 
 ```
-- You can send any type of file (Video, Image, Audio, Document) to this bot.
+- You can send any type of files (Video, Image, Audio, Document) to this bot.
 - Bot will send a shorten link of that file to you.
 ```
 
