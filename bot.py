@@ -36,7 +36,7 @@ def file_sent(message):
 
 if __name__ == "__main__":
     plugins = dict(root="plugins")
-    bot = Client(
+    bot = telebot(
         "FileToLink",
         bot_token=Config.TG_BOT_TOKEN,
         api_id=Config.APP_ID,
