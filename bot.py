@@ -32,9 +32,14 @@ def file_sent(message):
                     pass
 
 
-while True:
-    try:
-        bot.polling()
-    except Exception:
-        time.sleep(15)
+if __name__ == "__main__":
+    plugins = dict(root="plugins")
+    bot = Client(
+        "FileToLink",
+        bot_token=Config.TG_BOT_TOKEN,
+        api_id=Config.APP_ID,
+        api_hash=Config.API_HASH,
+        plugins=plugins
+    )
+    bot.run()
 
