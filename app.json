@@ -1,0 +1,24 @@
+{
+    "name": "FileToLinkTeLeTiPs",
+    "description": "A personal assistant to manage PMs",
+    "keywords": ["telegram", "pm", "chat", "bot", "open", "source"],
+    "website": "https://PMAssistantTeLeTiPs/",
+    "repository": "https://github.com/Thakshaka/FileToLinkTeLeTiPs",
+    "env": {
+          "APP_ID": {"description": "Get This Value From https://my.telegram.org", "required": true},
+          "API_HASH": {"description": "Get This Value From https://my.telegram.org" , "required": true},
+          "TG_BOT_TOKEN": {"description": "Your Bot's Token From BotFather Bot","required": true},
+          "ADMIN": {"description": "Your Telegram Id","required": true},
+          "ENV": {"description": "Set this to ANYTHING","value": "ANYTHING"}
+    },
+    "buildpacks": [
+      {"url": "heroku/python"}
+    ],
+    "formation": {
+      "worker": {
+        "quantity": 1,
+        "size": "free"
+      }
+    },
+    "stack": "heroku-20"
+  }
