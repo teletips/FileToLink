@@ -1,6 +1,6 @@
 {
     "name": "FileToLinkTeLeTiPs",
-    "description": "A personal assistant to manage PMs",
+    "description": "Bot to provide links of different types of files.",
     "website": "https://FileToLinkTeLeTiPs/",
     "repository": "https://github.com/Thakshaka/FileToLinkTeLeTiPs",
     "env": {
