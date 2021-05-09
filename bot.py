@@ -1,10 +1,9 @@
 import telebot
 import time
 import pyshorteners
+import os
 
-TG_BOT_TOKEN = ''
-
-bot = telebot.TeleBot(token=TG_BOT_TOKEN)
+bot = telebot.TeleBot(token=os.getenv('TG_BOT_TOKEN'))
 
 def short(url):
     return pyshorteners.Shortener().tinyurl.short(url)
