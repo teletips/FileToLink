@@ -2,7 +2,7 @@ import telebot
 import time
 import pyshorteners
 
-bot_token = '1724266823:AAEKPicuKYlxWo9SALl3sfTrkCsySpih8N4'
+bot_token = ''
 
 bot = telebot.TeleBot(token=bot_token)
 
