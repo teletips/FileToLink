@@ -1,5 +1,5 @@
 # ⚜️ File To Link Bot
-Bot to provide links of different types of files.
+Bot to provide links of different types of files you send.
 ### ⚜️ WHAT CAN THIS BOT DO
 Is it a nuisance to send huge files to others.File To Link Bot is for you.This bot will help you to provide shorten links for different types of files you send.
 ### ⬆️DEPLOY TO HEROKU
