@@ -4,11 +4,7 @@
     "website": "https://FileToLinkTeLeTiPs/",
     "repository": "https://github.com/Thakshaka/FileToLinkTeLeTiPs",
     "env": {
-          "APP_ID": {"description": "Get This Value From https://my.telegram.org", "required": true},
-          "API_HASH": {"description": "Get This Value From https://my.telegram.org" , "required": true},
-          "TG_BOT_TOKEN": {"description": "Your Bot's Token From BotFather Bot","required": true},
-          "ADMIN": {"description": "Your Telegram Id","required": true},
-          "ENV": {"description": "Set this to ANYTHING","value": "ANYTHING"}
+          "TG_BOT_TOKEN": {"description": "Your Bot's Token From BotFather Bot","required": true}
     },
     "buildpacks": [
       {"url": "heroku/python"}
