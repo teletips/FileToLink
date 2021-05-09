@@ -13,7 +13,7 @@ Is it a nuisance to send huge files to others.File To Link Bot is for you.This b
 - Bot will send a shorten link of that file to you.
 ```
 
-### ⚜️ OWNER
+### ⚜️ OWNER  &  Creator
 
 ```
 Thakshaka Rathnayake 
@@ -21,4 +21,10 @@ Thakshaka Rathnayake
 ©️2021 TeLe TiPs All Rights Reserved
  
 Powered by #AAQ
+```
+
+### ⚜️VOTE OF THANKS
+
+```
+Jainam
 ```
