@@ -1,8 +1,7 @@
 {
     "name": "FileToLinkTeLeTiPs",
     "description": "A personal assistant to manage PMs",
-    "keywords": ["telegram", "pm", "chat", "bot", "open", "source"],
-    "website": "https://PMAssistantTeLeTiPs/",
+    "website": "https://FileToLinkTeLeTiPs/",
     "repository": "https://github.com/Thakshaka/FileToLinkTeLeTiPs",
     "env": {
           "APP_ID": {"description": "Get This Value From https://my.telegram.org", "required": true},
