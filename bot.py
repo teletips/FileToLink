@@ -2,20 +2,16 @@ import telebot
 import time
 import pyshorteners
 
-bot_token = '1724266823:AAEKPicuKYlxWo9SALl3sfTrkCsySpih8N4'
-
-bot = telebot.TeleBot(token=bot_token)
-
 def short(url):
     return pyshorteners.Shortener().tinyurl.short(url)
 
 @bot.message_handler(commands=['start'])
 def send_welcome(message):
-    bot.reply_to(message, 'Hello, welcome!')
+    bot.reply_to(message, 'Heya, <b>{}</b>\n<code>I am a File To Link Bot created by TeLe TiPs\nSend any file to me👇🏻</code> ')
 
 @bot.message_handler(commands=['help'])
 def send_welcome(message):
-    bot.reply_to(message, 'Read my description for further help')  
+    bot.reply_to(message, 'Send any file to me & I will give you the link of it')  
 
 @bot.message_handler(content_types=['photo', 'video', 'audio', 'document'])
 def file_sent(message):
