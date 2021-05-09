@@ -12,7 +12,7 @@
     "formation": {
       "worker": {
         "quantity": 1,
-        "size": "20"
+        "size": "free"
       }
     },
     "stack": "heroku-20"
