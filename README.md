@@ -12,19 +12,3 @@ Is it a nuisance to send huge files to others.File To Link Bot is for you.This b
 - You can send any type of files (Video, Image, Audio, Document) to this bot.
 - Bot will send a shorten link of that file to you.
 ```
-
-### ⚜️ OWNER  &  CREATOR
-
-```
-Thakshaka Rathnayake 
- 
-©️2021 TeLe TiPs All Rights Reserved
- 
-Powered by #AAQ
-```
-
-### ⚜️VOTE OF THANKS
-
-```
-Jainam
-```
