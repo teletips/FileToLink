@@ -22,9 +22,7 @@ Is it a nuisance to send huge files to others.File To Link Bot is for you.This b
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/teletips/FileToLink)
 
 ## Config Vars
-1. `API_ID` : Telegram API_ID, get it from my.telegram.org/apps
-2. `API_HASH` : Telegram API_ID, get it from my.telegram.org/apps
-3. `BOT_TOKEN` : A Valid Telegram Bot Token, get it from @Botfather
+1. `BOT_TOKEN` : A Valid Telegram Bot Token, get it from @Botfather
 
 ## HOW TO USE THIS BOT
 
