@@ -32,7 +32,6 @@ Is it a nuisance to send huge files to others.File To Link Bot is for you.This b
 ```
 ## Credits
 - [TeLe TiPs](https://github.com/teletips)
-- [Pyrogram](https://github.com/pyrogram/pyrogram)
 
 ## Friendly Warning
 
