@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/github/forks/teletips/FileToLink?style=for-the-badge&color=green" alt="Forks">
     <img src="https://img.shields.io/github/watchers/teletips/FileToLink?style=for-the-badge&color=yellow" alt="Watchers"> <br>
     <img src="https://img.shields.io/github/license/teletips/FileToLink?style=for-the-badge&color=green" alt="License">
-    <img src="https://img.shields.io/github/repo-size/teletips/FileToLinks?style=for-the-badge&color=yellow" alt="Repository Size">
+    <img src="https://img.shields.io/github/repo-size/teletips/FileToLink?style=for-the-badge&color=yellow" alt="Repository Size">
     <img src="https://img.shields.io/github/contributors/teletips/FileToLink?style=for-the-badge&color=green" alt="Contributors">
     <img src="https://img.shields.io/github/issues/teletips/FileToLink?style=for-the-badge&color=yellow" alt="Issues">
 </p>  
